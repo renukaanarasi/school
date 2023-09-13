@@ -1,0 +1,3 @@
+2023-09-11 04:11:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTLIST" not found; SQL statement:
+select * from STUDENTLIST [42102-214]
